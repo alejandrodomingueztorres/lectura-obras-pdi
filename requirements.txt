@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+numpy
+pandas
+scipy
+scikit-learn
+scikit-image
+opencv-python-headless
+onnxruntime
+Pillow
