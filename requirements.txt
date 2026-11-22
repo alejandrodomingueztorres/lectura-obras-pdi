@@ -1,6 +1,4 @@
---extra-index-url https://download.pytorch.org/whl/cpu
-torch
-torchvision
+gradio==6.32.0
 numpy
 pandas
 scipy
